@@ -40,8 +40,11 @@
     "pubnub": "3.7.0",
     "q": "^1.0.1",
     "xmlhttprequest": "^1.6.0",
-    "webrtc-native": "^1.1.5",
     "sinch-ticketgen": "0.0.6"
+  },
+  "optionalDependencies": {
+    "webrtc-native": "^1.1.5",
+    "wrtc": "^0.0.56"
   },
   "license": "Proprietary",
   "bugs": {
